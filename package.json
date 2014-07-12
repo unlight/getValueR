@@ -1,0 +1,17 @@
+{
+	"author": "S",
+	"url": "http://rv-home.ru",
+	"name": "getValueR",
+	"description": "Useful functions for everyday javascript.",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/unlight/getValueR"
+	},
+	"main": "./getvaluer.js",
+	"keywords": ["functions"],
+	"dependencies": {},
+	"devDependencies": {
+		"wru": "latest"
+	}
+}
