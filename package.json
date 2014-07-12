@@ -1,8 +1,8 @@
 {
 	"author": "S",
 	"url": "http://rv-home.ru",
-	"name": "getValueR",
-	"description": "Useful functions for everyday javascript.",
+	"name": "getvaluer",
+	"description": "Returns the value from an array or an object.",
 	"version": "1.0.0",
 	"repository": {
 		"type": "git",
