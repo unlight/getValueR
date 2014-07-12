@@ -1,11 +1,12 @@
 getValueR
 ---------
 Returns the value from an array or an object.
-`getValueR(key, collection, result)`
+```js
+getValueR(key, collection, result)
 {string} key           The key or property name of the value (can be a string consisting of dot notation that will be used to recursivly traverse the collection).
 {mixed} collection     The array or object to search.
 {mixed} result         The value to return if the key does not exist.
-
+```
 Example
 -------
 ```js
