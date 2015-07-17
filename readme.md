@@ -28,3 +28,7 @@ var array = [["a", "b", "c"], ["A"], ["X"]];
 getValueR("0.0", array); // "a"
 getValueR("1.0", array); // "A"
 ```
+
+SIMILAR PROJECTS
+----------------
+https://github.com/sindresorhus/dot-prop  
