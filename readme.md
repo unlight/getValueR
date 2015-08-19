@@ -32,3 +32,4 @@ getValueR("1.0", array); // "A"
 SIMILAR PROJECTS
 ----------------
 https://github.com/sindresorhus/dot-prop  
+http://davidwalsh.name/nested-objects
