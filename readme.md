@@ -33,3 +33,16 @@ SIMILAR PROJECTS
 ----------------
 https://github.com/sindresorhus/dot-prop  
 http://davidwalsh.name/nested-objects
+https://github.com/zewish/oget
+
+BENCHMARK
+---------
+```cmd
+getvaluer (this module) x 3,251,662 ops/sec ±3.58% (78 runs sampled)
+sindresorhus/dot-prop x 3,438,099 ops/sec ±2.16% (92 runs sampled)
+objectifier (davidwalsh) x 1,452,507 ops/sec ±0.60% (98 runs sampled)
+'getvaluer (this module)' is etalon
+'sindresorhus/dot-prop' at 1.06x faster
+'objectifier (davidwalsh)' at 2.24x slower
+```
+`dot-prop` is a little bit faster, but it does not allow to pass default value.
