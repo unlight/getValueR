@@ -34,6 +34,7 @@ SIMILAR PROJECTS
 https://github.com/sindresorhus/dot-prop  
 http://davidwalsh.name/nested-objects  
 https://github.com/zewish/oget  
+https://www.npmjs.com/package/lodash.get  
 
 BENCHMARK
 ---------
