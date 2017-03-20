@@ -1,5 +1,7 @@
 getValueR
 ---------
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/getValueR.svg)](https://greenkeeper.io/)
 Returns the value from an array or an object.
 ```js
 getValueR(key, collection, result)
